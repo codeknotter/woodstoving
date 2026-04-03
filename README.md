@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -306,7 +305,6 @@
     <div class="hdr-item">
       <div class="hdr-label">Cords for common lengths:</div>
       <div class="hdr-value"><strong>18" logs:</strong> 4' high by 21.3' long. <strong>16" logs: 4' high x 24" long</div>
-    </div>
   </div>
 </header>
 
