@@ -317,7 +317,8 @@
     <button class="fb" data-cat="rare">Rare / small</button>
     <button class="fb" data-cat="conifer">Conifers</button>
   </div>
-  <label style="margin-left:10px">Sort by</label>
+</div><div>
+  <label>Sort by</label>
   <select id="sortSel">
     <option value="btu">BTU/cord (high → low)</option>
     <option value="sg">Specific gravity (high → low)</option>
@@ -326,7 +327,7 @@
   </select>
   <span class="count" id="cnt"></span>
 </div>
-
+<br>
 <div class="legend">
   <div class="li"><div class="ld" style="background:#1a4006"></div>Premium ≥27M BTU</div>
   <div class="li"><div class="ld" style="background:#4a8818"></div>High 24–27M</div>
