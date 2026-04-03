@@ -373,7 +373,7 @@
     <h2>BTU/lb coefficient — why it matters</h2>
     <p>All species in this table cluster tightly at approximately <strong>6,380–6,410 BTU per pound</strong> of seasoned wood (at ~20% moisture content). This is not a coincidence — it reflects the physical reality that all wood species have essentially the same energy density per unit of dry mass (~8,600 BTU/lb oven-dry; ~6,400 BTU/lb at 20% MC after accounting for heat lost to residual moisture evaporation).</p>
     <div class="coef-note">
-      <strong>Practical implication:</strong> The entire spread in this table — from basswood at 13.7M to swamp white oak at 30.8M BTU/cord — is almost entirely a function of how many pounds of wood fit into a stacked cord. A cord of basswood and a cord of swamp white oak contain roughly the same energy per pound; the oak cord just contains more than twice as much wood by weight. If you were to somehow weigh your wood purchase rather than buying by cord, species identity matters much less. Conversely, species density is the single most important variable when buying by the cord.
+      <strong>Practical implication:</strong> The entire spread in this table is almost entirely a function of how many pounds of wood fit into a stacked cord. A cord of basswood and a cord of swamp white oak contain roughly the same energy per pound; the oak cord just contains more than twice as much wood by weight. If you were to somehow weigh your wood purchase rather than buying by cord, species identity matters much less. Conversely, species density is the single most important variable when buying by the cord.
     </div>
   </div>
 
