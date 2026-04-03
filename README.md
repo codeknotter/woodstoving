@@ -304,8 +304,8 @@
     </div>
     <div class="hdr-item">
       <div class="hdr-label">Cords for common lengths:</div>
-      <div class="hdr-value"><strong>18" logs:</strong> 4' high by 21.3' long. <strong>16" logs: 4' high x 24" long.</strong></div> </div></div>
-
+      <div class="hdr-value"><strong>18" logs:</strong> 4' high by 21.3' long <strong>16" logs: 4' high x 24" long.</strong></div> </div></div>
+</header>
 <div class="controls">
   <label>Search</label>
   <input type="search" id="searchInput" placeholder="Common or scientific name…" style="font-size:12px;padding:4px 9px;border:1px solid var(--border2);border-radius:6px;background:var(--bg2);color:var(--text);width:200px;">
