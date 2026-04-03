@@ -583,5 +583,3 @@ function render() {
 
 render();
 </script>
-</body>
-</html>
